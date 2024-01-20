@@ -36,7 +36,7 @@ Please do:
 * **DO** give priority to the current style of the project or file you're changing even if it diverges from the general guidelines.
 * **DO** include tests when adding new features. When fixing bugs, start with adding a test that highlights how the current behavior is broken.
 * **DO** especially follow our rules in the [Contributing](https://github.com/Layr-Labs/eigenlayer-cli/blob/master/CODE_OF_CONDUCT.md#contributing) section of our code of conduct.
-* **DO** write idiomatic golang code
+* **DO** write idiomatic Golang code
 
 Please do not:
 
@@ -52,4 +52,4 @@ Branch names must follow `kebab-case` pattern. Follow the pattern `feature/<name
 Commits must follow the `<type>(<scope>): <subject>` pattern, as stated in the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Security Bugs
-Please report security vulnerabilities to security@eigenlabs.org. Do NOT report security bugs via Github Issues.
+Please report security vulnerabilities to security@eigenlabs.org. Do NOT report security bugs via GitHub Issues.
